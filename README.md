@@ -2,7 +2,6 @@
 A project to illustrate the ins and out of seeding databases through mysql and sequelize
 
 ## programs used in this project
- 
  - inquirer
  - express
  - mysql2

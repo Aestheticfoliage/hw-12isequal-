@@ -1,0 +1,26 @@
+{
+  "name": "hw-12isequal-",
+  "version": "1.0.0",
+  "description": "A project to illustrate the ins and out of seeding databases through mysql and sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aestheticfoliage/hw-12isequal-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aestheticfoliage/hw-12isequal-/issues"
+  },
+  "homepage": "https://github.com/Aestheticfoliage/hw-12isequal-#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
